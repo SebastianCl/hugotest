@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Develops on New Inntech</title>
+    <link>/develop/</link>
+    <description>Recent content in Develops on New Inntech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/develop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>C#</title>
+      <link>/develop/csharp/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/develop/csharp/</guid>
+      <description>&lt;p&gt;Lenguaje sobre el que se basan las aplicaciones de plataforma .NET.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>JAVA</title>
+      <link>/develop/java/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/develop/java/</guid>
+      <description>&lt;p&gt;Adaptabilidad a multitud de plataformas gracias a un solo lenguaje.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PHP</title>
+      <link>/develop/php/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/develop/php/</guid>
+      <description>&lt;p&gt;El lenguaje de script del lado del servidor con un amplio recorrido.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PYTHON</title>
+      <link>/develop/python/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/develop/python/</guid>
+      <description>&lt;p&gt;Aplicaciones REST, analisis de datos, inteligencia artificial y más.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NodeJS</title>
+      <link>/develop/nodejs/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/develop/nodejs/</guid>
+      <description>&lt;p&gt;Permite ejecutar Javascript en un entorno totalmente diferente al navegador.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

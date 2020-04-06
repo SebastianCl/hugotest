@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Databases on New Inntech</title>
+    <link>/database/</link>
+    <description>Recent content in Databases on New Inntech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/database/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Datastore</title>
+      <link>/database/datastore/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/database/datastore/</guid>
+      <description>&lt;p&gt;La base de datos que nos provee Google para modelos NoSQL.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MariaDB</title>
+      <link>/database/mariadb/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/database/mariadb/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MongoDB</title>
+      <link>/database/mongodb/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/database/mongodb/</guid>
+      <description>&lt;p&gt;De las mejores opciones si buscas agilidad y flexbiilidad para almacenar tus datos.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MySql</title>
+      <link>/database/mysql/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/database/mysql/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PostgreSQL</title>
+      <link>/database/postgresql/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/database/postgresql/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SQL Server</title>
+      <link>/database/sqlserver/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/database/sqlserver/</guid>
+      <description>&lt;p&gt;La base de datos preferida por empresas robustas y con alta historia de efectividad.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SQLITE</title>
+      <link>/database/sqlite/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/database/sqlite/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

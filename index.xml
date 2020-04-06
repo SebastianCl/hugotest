@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Inntech</title>
+    <link>/</link>
+    <description>Recent content on New Inntech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>C#</title>
+      <link>/develop/csharp/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/develop/csharp/</guid>
+      <description>&lt;p&gt;Lenguaje sobre el que se basan las aplicaciones de plataforma .NET.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>JAVA</title>
+      <link>/develop/java/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/develop/java/</guid>
+      <description>&lt;p&gt;Adaptabilidad a multitud de plataformas gracias a un solo lenguaje.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PHP</title>
+      <link>/develop/php/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/develop/php/</guid>
+      <description>&lt;p&gt;El lenguaje de script del lado del servidor con un amplio recorrido.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PYTHON</title>
+      <link>/develop/python/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/develop/python/</guid>
+      <description>&lt;p&gt;Aplicaciones REST, analisis de datos, inteligencia artificial y más.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cloud Foundry</title>
+      <link>/cloud/foundry/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/foundry/</guid>
+      <description>&lt;p&gt;Despliegue de aplicaciones en entorno multinube con SAP.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Datastore</title>
+      <link>/database/datastore/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/database/datastore/</guid>
+      <description>&lt;p&gt;La base de datos que nos provee Google para modelos NoSQL.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Firebase</title>
+      <link>/cloud/firebase/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/firebase/</guid>
+      <description>&lt;p&gt;Desarrollamos aplicaciones móviles que necesiten grandes recursos de datos.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Heroku</title>
+      <link>/cloud/heroku/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/heroku/</guid>
+      <description>&lt;p&gt;Una de nuestras nubes favoritas para el desarrollo de aplicaciones Cloud.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>IBM Cloud</title>
+      <link>/cloud/ibm/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/ibm/</guid>
+      <description>&lt;p&gt;Personalice sus opciones según sus objetivos empresariales.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MariaDB</title>
+      <link>/database/mariadb/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/database/mariadb/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Azure</title>
+      <link>/cloud/azure/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/azure/</guid>
+      <description>&lt;p&gt;Utilizamos los servicios de Microsoft para el desarrollo empresarial.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MongoDB</title>
+      <link>/database/mongodb/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/database/mongodb/</guid>
+      <description>&lt;p&gt;De las mejores opciones si buscas agilidad y flexbiilidad para almacenar tus datos.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MySql</title>
+      <link>/database/mysql/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/database/mysql/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NodeJS</title>
+      <link>/develop/nodejs/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/develop/nodejs/</guid>
+      <description>&lt;p&gt;Permite ejecutar Javascript en un entorno totalmente diferente al navegador.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PostgreSQL</title>
+      <link>/database/postgresql/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/database/postgresql/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sap Cloud</title>
+      <link>/cloud/scp/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/cloud/scp/</guid>
+      <description>&lt;p&gt;La plataforma preperida para usuarios SAP que desean migrar a la nube.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SQL Server</title>
+      <link>/database/sqlserver/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/database/sqlserver/</guid>
+      <description>&lt;p&gt;La base de datos preferida por empresas robustas y con alta historia de efectividad.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SQLITE</title>
+      <link>/database/sqlite/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/database/sqlite/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Google Cloud</title>
+      <link>/cloud/gcp/</link>
+      <pubDate>Wed, 25 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>/cloud/gcp/</guid>
+      <description>&lt;p&gt;Utilizamos los diferentes servicios de GCP para crear desarrollos a la medida.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
